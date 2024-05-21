@@ -2,3 +2,4 @@
 #ifndef ANAK_H
 
 class anak{
+public:
