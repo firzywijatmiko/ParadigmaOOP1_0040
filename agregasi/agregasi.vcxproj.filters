@@ -26,5 +26,8 @@
     <ClInclude Include="anak-h.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ibu_h.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
