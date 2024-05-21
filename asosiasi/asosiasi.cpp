@@ -17,7 +17,7 @@ public:
 	void cetakdokter();
 };
 
-class dokter {
+class dokter { 
 public:
 	string nama;
 	vector<pasien*> daftar_pasien;
