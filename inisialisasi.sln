@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainJM", "mainJM\mainJM.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "composisi", "composisi\composisi.vcxproj", "{53147E5E-1210-4C14-97D3-31C8FD4E63B8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agregasi", "agregasi\agregasi.vcxproj", "{569EF662-1D78-4B23-9BE5-89A84E24F28E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{53147E5E-1210-4C14-97D3-31C8FD4E63B8}.Release|x64.Build.0 = Release|x64
 		{53147E5E-1210-4C14-97D3-31C8FD4E63B8}.Release|x86.ActiveCfg = Release|Win32
 		{53147E5E-1210-4C14-97D3-31C8FD4E63B8}.Release|x86.Build.0 = Release|Win32
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Debug|x64.ActiveCfg = Debug|x64
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Debug|x64.Build.0 = Debug|x64
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Debug|x86.ActiveCfg = Debug|Win32
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Debug|x86.Build.0 = Debug|Win32
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Release|x64.ActiveCfg = Release|x64
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Release|x64.Build.0 = Release|x64
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Release|x86.ActiveCfg = Release|Win32
+		{569EF662-1D78-4B23-9BE5-89A84E24F28E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
